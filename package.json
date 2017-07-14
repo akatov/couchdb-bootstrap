@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "couchdb-configure": "akatov/couchdb-configure#a96d9eb1ee12cc2685bf718750e662e5b9b82ce5",
+    "couchdb-configure": "akatov/couchdb-configure#3a5086d56d158425758be5f3e8f7f56ebdbda984",
     "couchdb-push": "^2.3.1",
     "couchdb-secure": "^1.4.2",
     "glob": "^7.0.3",
